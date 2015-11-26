@@ -12,3 +12,4 @@ env:
 script:
   - mix deps.get
   - mix test
+
